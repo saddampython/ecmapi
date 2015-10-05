@@ -1,4 +1,4 @@
-
+//insert some new comments
 class TreadPractice implements Runnable {
   Thread t;
   
