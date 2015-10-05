@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sqlcredentials>
+    <driver>com.mysql.jdbc.Driver</driver>
+    <username>root</username>
+    <password>root</password>
+    <url>jdbc:mysql://localhost:3306/taskdistributionsystem</url>
+    <logfilepath>E:\Tdslogfile</logfilepath>
+    <loglevel>debug</loglevel>
+  </sqlcredentials>
